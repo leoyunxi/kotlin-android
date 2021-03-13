@@ -30,3 +30,12 @@ dependencies {
     implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.4.10'
 
 }
+
+task helloWorld(group: "myTask"){
+    // 1. configuration
+    println("hello")
+    // 2. runtime
+    doLast {
+        println("world")
+    }
+}
