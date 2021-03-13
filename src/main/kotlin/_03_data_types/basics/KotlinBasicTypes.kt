@@ -1,4 +1,4 @@
-package com.bennyhuo.kotlin.builtintypes.basics
+package _03_data_types.basics
 
 fun main() {
 
