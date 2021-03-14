@@ -1,0 +1,3 @@
+package _04_class_interface.smartcasts.kotlin
+
+interface Kotliner
